@@ -21,4 +21,4 @@
 [linkedin]: https://www.linkedin.com/in/azmi-muhammad-b917bb150/
 [instagram]: https://www.instagram.com/mmd_azmi/
 [telegram]: https://t.me/mmd_azmi
-[gmail]: mailto:abc@example.com
+[gmail]: mailto:azmim85@gmail.com
