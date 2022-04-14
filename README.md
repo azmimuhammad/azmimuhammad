@@ -5,8 +5,8 @@
 :e-mail: azmim85@gmail.com <br />
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=azmimuhammad&show_icons=true&theme=nightowl&count_private=true&hide=contribs" alt="azmimuhammad" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&count_private=true" alt="azmimuhammad" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmimuhammad&show_icons=true&theme=nightowl&count_private=true&hide=contribs" alt="azmimuhammad" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&count_private=true" alt="azmimuhammad" height="150"/>
 </div>
 
 ## Contact Me 📬 ##
