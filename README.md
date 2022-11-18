@@ -4,10 +4,10 @@
 :house: Currently I live in bandung <br />
 :e-mail: azmim85@gmail.com <br />
 
-<!-- <div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=azmimuhammad&show_icons=true&theme=nightowl&count_private=true&hide=contribs" alt="azmimuhammad" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&count_private=true" alt="azmimuhammad" height="150"/>
-</div> -->
+</div>
 
 ## Contact Me 📬 ##
 [<img align="left" alt="azmimuhammad" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png">][linkedin]
