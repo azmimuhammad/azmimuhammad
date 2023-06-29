@@ -1,20 +1,76 @@
-## Hello there 😉👋 I'm Azmi Muhammad ##<br><br>
+<div>
+  <h1>Hello there 😉👋 I'm Azmi Muhammad</h1>
+  👨‍💻 I'm Frontend Enthusiast <br />
+  :house: Currently I live in bandung <br /><br />
+  <p>
+    I am a passionate Front End Developer with 3+ years of experience in the
+    field. I'm constantly exploring and expanding my skills to deliver code
+    that's concise, issue-free, high-performing code, and easy to understand.
+    Skilled in several javascript framework (ReactJs, VueJs, NextJs) and some
+    experience in PHP. Experienced working with several products in the field of
+    human capital, online learning, decentralized biomedical network, Management
+    Information System and several other products.
+  </p>
+</div>
 
-👨‍💻 I'm Frontend Enthusiast <br />
-:house: Currently I live in bandung <br />
+<div>
+  <h2>🌐 Socials:</h2>
+  <a href="https://www.instagram.com/mmd_azmi/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
+      alt="instagram"
+    />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/azmi-muhammad-b917bb150/"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+      alt="instagram"
+    />
+  </a>
+</div>
 
+<div>
+  <h2>💻 Tech Stack:</h2>
+  <img
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+    alt=""
+  />
+  <img
+    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    alt=""
+  />
+  <img
+    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    alt=""
+  />
+  <img
+    src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+    alt=""
+  />
+  <img
+    src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+    alt=""
+  />
+  <img
+    src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+    alt=""
+  />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmd_azmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmi-muhammad-b917bb150) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=azmimuhammad&show_icons=true&theme=dark&count_private=true&hide=contribs)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmimuhammad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=azmimuhammad&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br /><br />
+<div>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmimuhammad&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
+      alt=""
+    />
+    <img
+      src="https://streak-stats.demolab.com/?user=azmimuhammad&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9"
+      alt=""
+    />
+  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmimuhammad&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true" alt="" />
+</div>
