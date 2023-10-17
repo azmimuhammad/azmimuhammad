@@ -3,8 +3,7 @@
   👨‍💻 I'm Frontend Enthusiast <br />
   :house: Currently I live in bandung <br /><br />
   <p>
-    I am a passionate Front End Developer with 4+ years of experience in the
-    field. I'm constantly exploring and expanding my skills to deliver code
+    I am experienced as a frontend developer since 2019. I'm constantly exploring and expanding my skills to deliver code
     that's concise, issue-free, high-performing code, and easy to understand.
     Skilled in several javascript framework (ReactJs, VueJs, NextJs) and some
     experience in PHP. Experienced working with several products in the field of
